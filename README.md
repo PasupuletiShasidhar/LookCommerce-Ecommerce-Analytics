@@ -26,7 +26,7 @@ LookCommerce-Ecommerce-Analytics/
 │   ├── 02_Data_Cleaning.sql
 │   ├── 03_Exploratory_Data_Analysis.sql
 │   └── 04_Business_Analysis_and_Views.sql
-├── screenshots/
+├── Screenshots/
 │   ├── 01_executive_overview.png
 │   ├── 02_customer_retention_rfm.png
 │   ├── 03_product_return_leakage.png
